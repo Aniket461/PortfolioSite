@@ -1,0 +1,700 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"player",
+				"playerHand"
+			],
+			[
+				"paddi",
+				"padding-top\tproperty"
+			],
+			[
+				"mod",
+				"modalText"
+			],
+			[
+				"loc",
+				"location\t: Location Window"
+			],
+			[
+				"cla",
+				"classList"
+			],
+			[
+				"final",
+				"finalTit"
+			],
+			[
+				"check",
+				"checkWinning"
+			],
+			[
+				"comput",
+				"computerdidBatting"
+			],
+			[
+				"swi",
+				"switchInnings"
+			],
+			[
+				"pla",
+				"playerBatting"
+			],
+			[
+				"com",
+				"computerBatting"
+			],
+			[
+				"compu",
+				"computerdidBatting"
+			],
+			[
+				"comp",
+				"computerdidBatting"
+			],
+			[
+				"cons",
+				"console_log"
+			],
+			[
+				"ba",
+				"battingfirst"
+			],
+			[
+				"bowling",
+				"bowlingfirst"
+			],
+			[
+				"pwic",
+				"pwickets"
+			],
+			[
+				"pwick",
+				"pwicketsH1"
+			],
+			[
+				"computer",
+				"computerHand"
+			],
+			[
+				"console",
+				"console_log"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"textCo",
+				"textContent"
+			],
+			[
+				"plyer",
+				"playerchoice"
+			],
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"tossw",
+				"tosswin"
+			],
+			[
+				"toss",
+				"tossWinner"
+			],
+			[
+				"fad",
+				"fadeOut"
+			],
+			[
+				"start",
+				"startMatch"
+			],
+			[
+				"let",
+				"letplay"
+			],
+			[
+				"cl",
+				"classList\t: DOMTokenList Element"
+			],
+			[
+				"query",
+				"querySelector\t( selectors: DOMString ): Element Document"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"quer",
+				"querySelector\t( selectors: DOMString ): Element Document"
+			],
+			[
+				"bu",
+				"button"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"mar",
+				"margin-right\tproperty"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"ad",
+				"addEventListener\t( type: DOMString, callback: EventListener, capture?: boolean ): void EventTarget"
+			],
+			[
+				"al",
+				"align-content\tproperty"
+			],
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"fnt",
+				"font-size\tproperty"
+			],
+			[
+				"border",
+				"border-width\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"la",
+				"largeColumn"
+			],
+			[
+				"f",
+				"font-weight\tproperty"
+			],
+			[
+				"onC",
+				"onChange"
+			],
+			[
+				"stat",
+				"state"
+			],
+			[
+				"isS",
+				"isSearched"
+			],
+			[
+				"toL",
+				"toLowerCase\t(): string String"
+			],
+			[
+				"searc",
+				"searchTerm"
+			],
+			[
+				"sea",
+				"searchTerm"
+			],
+			[
+				"up",
+				"updatedList"
+			],
+			[
+				"isN",
+				"isNotId"
+			],
+			[
+				"ite",
+				"item\t( index: unsigned long ): File FileList"
+			],
+			[
+				"modue",
+				"module"
+			],
+			[
+				"class",
+				"className\t: DOMString Element"
+			],
+			[
+				"thro",
+				"throws"
+			],
+			[
+				"pt",
+				"println"
+			],
+			[
+				"Fina",
+				"finally"
+			],
+			[
+				"Fil",
+				"FileOutPutStream"
+			],
+			[
+				"File",
+				"FileInPutStream"
+			],
+			[
+				"fons",
+				"font-style\tproperty"
+			],
+			[
+				"fonts",
+				"font-size\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"req",
+				"required"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"stri",
+				"stringify\t( value: any, replacer?: any, space?: any ): string JSON"
+			],
+			[
+				"setI",
+				"setInterval"
+			],
+			[
+				"setTi",
+				"setTimeout"
+			],
+			[
+				"setT",
+				"setTimeout\t( handler: any, timeout?: long, arguments_..: any ): long Window"
+			],
+			[
+				"pro",
+				"progress"
+			],
+			[
+				"origi",
+				"originalname"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"String",
+				"StringTokenizer"
+			],
+			[
+				"pri",
+				"println"
+			],
+			[
+				"Str",
+				"StringBuffer"
+			],
+			[
+				"mon",
+				"mongoUrl"
+			],
+			[
+				"onc",
+				"onclick\t: EventHandler Document"
+			],
+			[
+				"docu",
+				"document\t: Document Window"
+			],
+			[
+				"getE",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"ap",
+				"append\t( nodes_..: Node|DOMString ): void Document"
+			],
+			[
+				"t",
+				"text"
+			],
+			[
+				"mess",
+				"message"
+			],
+			[
+				"gene",
+				"generateImageMessage"
+			],
+			[
+				"readAS",
+				"readAsDataURL\t( blob: Blob ): void FileReader"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"jQ",
+				"jQuery"
+			],
+			[
+				"new",
+				"newMessage"
+			],
+			[
+				"rem",
+				"removeUser"
+			],
+			[
+				"lo",
+				"log\t( x: number ): number Math"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"auto",
+				"autocomplete\tAttr"
+			],
+			[
+				"scrol",
+				"scrollHeight"
+			],
+			[
+				"scroll",
+				"scrollTop"
+			],
+			[
+				"las",
+				"lastMessageheight"
+			],
+			[
+				"scr",
+				"scrollHeight"
+			],
+			[
+				"cre",
+				"createdAt"
+			],
+			[
+				"te",
+				"template"
+			],
+			[
+				"forma",
+				"formattedTime"
+			],
+			[
+				"re",
+				"removeAttribute\t( name: DOMString ): void Element"
+			],
+			[
+				"aut",
+				"autocomplete\tAttr"
+			],
+			[
+				"messag",
+				"messagebox"
+			],
+			[
+				"gen",
+				"generateLocationMessage"
+			],
+			[
+				"po",
+				"position\t = 'relative' Style CSS"
+			],
+			[
+				"loca",
+				"locationButton"
+			],
+			[
+				"j",
+				"jQuery"
+			],
+			[
+				"preve",
+				"preventDefault\t(): void Event"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"exp",
+				"exports"
+			],
+			[
+				"cono",
+				"console"
+			],
+			[
+				"ex",
+				"express"
+			],
+			[
+				"pa",
+				"path"
+			],
+			[
+				"data",
+				"dataString"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"da",
+				"dataString"
+			],
+			[
+				"zip",
+				"zip"
+			],
+			[
+				"zipc",
+				"zipcode"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"me",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ja",
+				"Set Syntax: Java"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Aniket/Desktop/projectsite/style.css",
+		"/C/Users/Aniket/Desktop/HandCricket/index.html",
+		"/C/Users/Aniket/Desktop/HandCricket/style.css",
+		"/C/Users/Aniket/Desktop/HandCricket/index.js",
+		"/C/Users/Aniket/Desktop/stonepaper/app.js",
+		"/C/Users/Aniket/Desktop/stonepaper/index.html",
+		"/C/Users/Aniket/Desktop/Learning/index.html",
+		"/C/Users/Aniket/Desktop/Learning/style.css",
+		"/C/Users/Aniket/Desktop/aniketnews/src/index.js",
+		"/C/Users/Aniket/Desktop/aniketnews/src/App.css",
+		"/C/Users/Aniket/Desktop/aniketnews/src/index.css",
+		"/C/Users/Aniket/Desktop/aniketnews/src/App.js",
+		"/C/Users/Aniket/Desktop/Convert/views/index.ejs",
+		"/C/Users/Aniket/Desktop/Convert/app.js",
+		"/C/Users/Aniket/Desktop/moviesearch/js/index.js",
+		"/C/Users/Aniket/Desktop/moviesearch/index.html",
+		"/C/Users/Aniket/Desktop/moviesearch/movie.html",
+		"/C/Users/Aniket/Desktop/output.txt",
+		"/C/Users/Aniket/Desktop/input.txt",
+		"/C/Users/Aniket/Desktop/run.java"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 214.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
